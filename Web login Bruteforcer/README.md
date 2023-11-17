@@ -15,7 +15,7 @@ This Python script is a Web login bruteforcer designed to test the security of a
 
 ## Usage
 ```
-python3 WebLoginBruterforcer.py http://<TARGET_URL>
+python3 WebLoginBruterforcer.py <TARGET_URL>
 ```
 
 ## Screenshots
