@@ -12,7 +12,7 @@ This Python script is a SHA-256 hash cracker created to find the plaintext passw
 - Python 3.x
 - [pwn library](https://github.com/Gallopsled/pwntools)
 
-## Usage
+## Usage Syntax
 ```
 python3 SHA256Passcracker.py <SHA-256 HASH>
 ```
