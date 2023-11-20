@@ -17,6 +17,12 @@ This Python script is a Web login bruteforcer designed to test the security of a
 ```
 python3 WebLoginBruterforcer.py <TARGET_URL>
 ```
+## Testing Environment
+This tool has been tested in a controlled environment, specifically in a TryHackMe room. The testing environment was set up with explicit authorization, and the tool was used responsibly for educational and learning purposes.
+
+### TryHackMe Room Details
+- Room Name: "Brute It"
+- Link to Room: https://tryhackme.com/room/bruteit
 
 ## Screenshots
 
