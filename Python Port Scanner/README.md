@@ -15,6 +15,12 @@ This Python script is a basic port scanner designed to identify open ports on a 
 ```
 python3 PythonPortScanner.py
 ```
+## Testing Environment
+This tool has been tested in a controlled environment, specifically in a TryHackMe room. The testing environment was set up with explicit authorization, and the tool was used responsibly for educational and learning purposes.
+
+### TryHackMe Room Details
+- Room Name: "Bounty Hacker"
+- Link to Room: https://tryhackme.com/room/cowboyhacker
 
 ## Screenshots
 
