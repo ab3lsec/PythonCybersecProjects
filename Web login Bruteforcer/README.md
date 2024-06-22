@@ -5,9 +5,9 @@ This Python script is a Web login bruteforcer designed to test the security of a
 
 ## Features
 - Web login bruteforce using a custom wordlist
-- Basic error handling for incorrect command-line usage
-- Customizable target URL, usernames, and wordlist
-- Uses the `requests` library for HTTP requests
+- Basic error handling for incorrect command-line usage.
+- Customizable target URL, usernames, and wordlist.
+- Uses the `requests` library for HTTP requests.
 
 ## Requirements
 - Python 3.x
